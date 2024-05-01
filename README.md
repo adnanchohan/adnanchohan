@@ -1,15 +1,8 @@
 # 👋 Hi there, I'm Muhammad Adnan Chohan!
-I'm a dynamic software engineer with a flair for crafting cutting-edge Android apps and diving deep into Multi-Stack Web development and Python freelancing projects. Passionate about leveraging technology to tackle real-world challenges, I thrive on creating innovative solutions that make a difference. Let's build, learn, and share together!
+I'm a dynamic software engineer with a flair for crafting cutting-edge Android apps, Multi-Stack Web development and Python projects. I thrive on creating innovative solutions that make a difference. Let's build, learn, and share together!
 
 ## 🌐 WatchFulAI Organization
-I've also founded [WatchFulAI](https://github.com/WatchFulAI) to collaborate with other developers and maintain open-source contributions. We're dedicated to creating impactful projects and fostering a community of passionate developers. Check out our organization and feel free to join us in making better achievements for our GitHub profile!
-
-## 🔧 Technologies & Tools
-- **Android Development**: Kotlin, Java, Android Studio, MVVM, Google Play Console, Admob Ads, Billing & Security
-- **Web Development**: HTML5, CSS3, JavaScript, Node.js
-- **Python**: PyQt5, StreamLit, NumPy, Pandas, Face-Recognition, Di-lib, Deepface and many more
-- **Database**: MySQL, Firebase
-- **Other**: Git, GitHub, RESTful APIs
+I've also founded [WatchFulAI](https://github.com/WatchFulAI) to collaborate with other developers and maintain open-source contributions. We're dedicated to creating impactful projects and fostering a community of passionate developers. Check out our organization and feel free to join us in making better achievements for your GitHub profile!
 
 ## 🚀 Projects
 
@@ -31,15 +24,22 @@ I've also founded [WatchFulAI](https://github.com/WatchFulAI) to collaborate wit
 - [Simple GUI Calculator Using PyQt5](https://github.com/adnanchohan/Simple_Calulator_PyQt5)
 - [Face Mesh Project](https://github.com/adnanchohan/Face_Mesh_Project)
 
-
-## 🌱 Currently Learning
+<!--## 🌱 Currently Learning
 I'm always eager to expand my skills and explore new technologies. Currently, I'm diving deeper into Android Development using Kotlin and JetPack Compose + APIs using Node.js. And working on freelance multi-stack web projects
+-->
 
 ## 📫 Let's Connect!
 - LinkedIn: [Muhammad Adnan Chohan](https://www.linkedin.com/in/adnanchohan/)
 <!-- Twitter: [@YourTwitterHandle](link) -->
 
 Feel free to reach out if you're interested in collaborating on projects or just want to chat!
+
+<!--## 🔧 Technologies & Tools
+- **Android Development**: Kotlin, Java, Android Studio, MVVM, Google Play Console, Admob Ads, Billing & Security
+- **Web Development**: HTML5, CSS3, JavaScript, Node.js
+- **Python**: PyQt5, StreamLit, NumPy, Pandas, Face-Recognition, Di-lib, Deepface and many more
+- **Database**: MySQL, Firebase
+- **Other**: Git, GitHub, RESTful APIs -->
 
 
 <!--
