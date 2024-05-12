@@ -32,6 +32,8 @@ I'm always eager to expand my skills and explore new technologies. Currently, I'
 - LinkedIn: [Muhammad Adnan Chohan](https://www.linkedin.com/in/adnanchohan/)
 <!-- Twitter: [@YourTwitterHandle](link) -->
 
+![](https://komarev.com/ghpvc/?username=adnanchohan)
+
 Feel free to reach out if you're interested in collaborating on projects or just want to chat!
 
 <!--## 🔧 Technologies & Tools
