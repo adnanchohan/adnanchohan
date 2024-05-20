@@ -7,7 +7,7 @@ I've also founded [WatchFulAI](https://github.com/WatchFulAI) to collaborate wit
 ## 🚀 Projects
 
 ### Android Apps
-- [iOS Calcultor App](link) : This is a private project will be available on the App Stores soon.
+- [iOS Calcultor App](https://github.com/adnanchohan/iPhone_Calculator_Android) : This is a private project will be available on the App Stores soon.
 - [Google Play Billing 6.2.0 Sample App](https://github.com/adnanchohan/Google-Play-Billing-6.2.0-Latest-2024-Sample-App)
 - [Mosque Map Easy Sample App](https://github.com/adnanchohan/MosqueMapEasy)
 - [OpenCV ImageViewer and Camera App](https://github.com/adnanchohan/OpenCV-ImageViewer-and-Camera-App)
