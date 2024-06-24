@@ -30,7 +30,7 @@ I'm always eager to expand my skills and explore new technologies. Currently, I'
 
 ## 📫 Let's Connect!
 - LinkedIn: [Muhammad Adnan Chohan](https://www.linkedin.com/in/adnanchohan/)
-- Other Social: Don't have any Facebook or IG
+- Other Social: I don't use Facebook, IG or SC
 <!-- Twitter: [@YourTwitterHandle](link) -->
 
 ![](https://komarev.com/ghpvc/?username=adnanchohan)
