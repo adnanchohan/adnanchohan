@@ -23,6 +23,7 @@ I've also founded [WatchFulAI](https://github.com/WatchFulAI) to collaborate wit
 - [Different Types of Camera Using OpenCV](https://github.com/adnanchohan/Different-types-of-Camera-Apps-using-OpenCV-Python)
 - [Simple GUI Calculator Using PyQt5](https://github.com/adnanchohan/Simple_Calulator_PyQt5)
 - [Face Mesh Project](https://github.com/adnanchohan/Face_Mesh_Project)
+- [AOSP Dictionary Tool](https://github.com/adnanchohan/AOSP_DictionaryTool)
 
 <!--## 🌱 Currently Learning
 I'm always eager to expand my skills and explore new technologies. Currently, I'm diving deeper into Android Development using Kotlin and JetPack Compose + APIs using Node.js. And working on freelance multi-stack web projects
