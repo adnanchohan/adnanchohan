@@ -31,12 +31,11 @@ I'm always eager to expand my skills and explore new technologies. Currently, I'
 
 ## 📫 Let's Connect!
 - LinkedIn: [Muhammad Adnan Chohan](https://www.linkedin.com/in/adnanchohan/)
-- Other Social: I don't use Facebook, IG or SC
 <!-- Twitter: [@YourTwitterHandle](link) -->
 
 ![](https://komarev.com/ghpvc/?username=adnanchohan)
 
-Feel free to reach out if you're interested in collaborating on projects or just want to chat!
+Feel free to reach out if you're interested in collaborating on projects or just want to discuss anything!
 
 <!--## 🔧 Technologies & Tools
 - **Android Development**: Kotlin, Java, Android Studio, MVVM, Google Play Console, Admob Ads, Billing & Security
