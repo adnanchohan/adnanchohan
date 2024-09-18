@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Muhammad Adnan Chohan!
+# 👋 Hi there, I'm Muhammad Adnan Chohan!  ![](https://komarev.com/ghpvc/?username=adnanchohan)
 I'm a dynamic software engineer with a flair for crafting cutting-edge Android apps, Multi-Stack Web development and Python projects. I thrive on creating innovative solutions that make a difference. Let's build, learn, and share together!
 
 ## 🌐 WatchFulAI Organization
@@ -32,8 +32,6 @@ I'm always eager to expand my skills and explore new technologies. Currently, I'
 ## 📫 Let's Connect!
 - LinkedIn: [Muhammad Adnan Chohan](https://www.linkedin.com/in/adnanchohan/)
 <!-- Twitter: [@YourTwitterHandle](link) -->
-
-![](https://komarev.com/ghpvc/?username=adnanchohan)
 
 Feel free to reach out if you're interested in collaborating on projects or just want to discuss anything!
 
