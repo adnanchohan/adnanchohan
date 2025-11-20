@@ -6,17 +6,28 @@ I've also founded [WatchFulAI](https://github.com/WatchFulAI) to collaborate wit
 
 ## Products
 
-<img src="https://github.com/user-attachments/assets/6f51dfe1-d72a-4ed8-9eed-848652a395f0" width="530" height="300">
-<img src="https://github.com/user-attachments/assets/85232ebb-5b1a-4d2c-98f6-07f9eee8fcd7" width="150" height="300">
-<img src="https://github.com/user-attachments/assets/59f880af-8e64-455f-8d1a-6680e0ee9295" width="150" height="300">
 
-- [Google Play: iOS Calculator App](https://play.google.com/store/apps/details?id=com.app.simplecalculator) 
+<img width="1024" height="500" alt="KEAzk02ys6O0_1024_500" src="https://github.com/user-attachments/assets/c4b80d95-d0d7-4b81-8ad9-e46414b30d3e">
+<img width="150" height="500" alt="image1" src="https://github.com/user-attachments/assets/ddf89561-38b6-47cd-a18f-c212fe1f59b7">
+<img width="150" height="500" alt="image2" src="https://github.com/user-attachments/assets/b1e670ca-90bc-46e8-a3bd-82008585467a">
+<img width="150" height="500" alt="image4" src="https://github.com/user-attachments/assets/f065bb6b-5eac-4cf7-a20d-de1706af46c7" />
+<img width="150" height="500" alt="image7" src="https://github.com/user-attachments/assets/0d9c4926-6cde-4266-9b83-e59b004ec3f7" />
+<img width="150" height="500" alt="image3" src="https://github.com/user-attachments/assets/2302158d-9f5e-4c18-8c26-869f4dc9018e" />
+<img width="150" height="500" alt="image8" src="https://github.com/user-attachments/assets/b4a3d443-4abb-4190-b04c-6aa08f6d553b" />
+<img width="150" height="500" alt="image6" src="https://github.com/user-attachments/assets/542a69a3-771c-48d2-b2aa-d82291b4b312" />
+
+<!-- <img src="https://github.com/user-attachment<img width="1290" height="2796" alt="image8" src="https://github.com/user-attachments/assets/f5de0e96-de63-45ed-b289-18788245ffea" />
+s/assets/6f51dfe1-d72a-4ed8-9eed-848652a395f0" width="530" height="300">
+<img src="https://github.com/user-attachments/assets/85232ebb-5b1a-4d2c-98f6-07f9eee8fcd7" width="150" height="300">
+<img src="https://github.com/user-attachments/assets/59f880af-8e64-455f-8d1a-6680e0ee9295" width="150" height="300"> -->
+
+- [Google Play:Intell Calculator - Convertor App](https://play.google.com/store/apps/details?id=com.app.simplecalculator) 
 
 
 ## 🚀 Projects
 
 ### Android Apps
-- [iOS Calculator App](https://github.com/adnanchohan/iPhone_Calculator_Android)
+- [Intell Calculator App](https://github.com/adnanchohan/iPhone_Calculator_Android)
 - [Google Play Billing 6.2.0 Sample App](https://github.com/adnanchohan/Google-Play-Billing-6.2.0-Latest-2024-Sample-App)
 - [Mosque Map Easy Sample App](https://github.com/adnanchohan/MosqueMapEasy)
 - [OpenCV ImageViewer and Camera App](https://github.com/adnanchohan/OpenCV-ImageViewer-and-Camera-App)
